@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mohd Irfan
 
-🎯 Aspiring Data Scientist | Data Analyst
+🎯 Data Scientist | Data Analyst
 🛠️ Skills: SQL • Excel • Data Cleaning • Dashboarding
 🎓 Currently completing a Data Analyst Internship
 📊 Passionate about transforming raw data into actionable insights
